@@ -12,12 +12,12 @@ Doorkee React/Redux Node/Express full stack code test
 
 1. Use a map library of your choice ([Google maps](https://developers.google.com/maps/documentation/), [Mapbox](https://www.mapbox.com/about/maps/), etc) to display the location of the ISS from the backend. It should automatically update every 5 seconds.
 2. Create a Header with at least three dead links (About, Contact, Whatever, etc)
-  - On desktop: 
-    * Logo on the left side
-    * links centered and spaced evenly horizontally
-  - On Mobile:
-    * Logo on the left side
-    * Hamburger button on the right side that opens a drawer with the links spaced evenly vertically
+    - On desktop: 
+      * Logo on the left side
+      * links centered and spaced evenly horizontally
+    - On Mobile:
+      * Logo on the left side
+      * Hamburger button on the right side that opens a drawer with the links spaced evenly vertically
 
 ### bonus:
 
