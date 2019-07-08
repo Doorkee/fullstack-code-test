@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-code-test",
+  "version": "1.0.0",
+  "description": "Full stack code test",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "cd api && npm start",
+    "setup": "cd api && npm i && cd ..",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doorkee/fullstack-code-test.git"
+  },
+  "author": "Doorkee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doorkee/fullstack-code-test/issues"
+  },
+  "homepage": "https://github.com/Doorkee/fullstack-code-test#readme"
+}
