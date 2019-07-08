@@ -22,3 +22,4 @@ Doorkee React/Redux Node/Express full stack code test
 ### bonus:
 
 1. Tests
+2. Authentication (JWT or session based, signup/login modal with a link in the header)
