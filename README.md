@@ -18,3 +18,7 @@ Doorkee React/Redux Node/Express full stack code test
   - On Mobile:
     * Logo on the left side
     * Hamburger button on the right side that opens a drawer with the links spaced evenly vertically
+
+### bonus:
+
+1. Tests
