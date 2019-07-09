@@ -3,7 +3,16 @@ Doorkee React/Redux Node/Express full stack code test. The goal of this test is 
 
 ## Instructions:
 
-1. Fork this repo to your personal github account to get started.
+1. Fork this repo to your personal github account
+2. Clone this repo to your local machine
+3. Install Mongo (this guide is for Mac OS)
+  1. Install dependencies: `brew install mongo`
+  2. Create data directory and set permissions: `sudo mkdir -p /data/db && sudo chown -R $(whoami):admin /data/db`
+4. Start mongo (`mongod` or `brew services start mongo`)
+5. Setup project dependencies: run `npm run setup` in the project root
+6. Start the backend: `npm run start:api` in the project root
+7. Start the client: `npm run start:client` in the project root. You'll probably need to do this in a separate terminal window
+8. Code!
 
 ### backend:
  
