@@ -1,13 +1,13 @@
 # fullstack-code-test
-Doorkee React/Redux Node/Express full stack code test
+Doorkee React/Redux Node/Express full stack code test. The goal of this test is to extend the provided boilerplate backend and frontend to query and display the location of the ISS in real time.
 
 ## Instructions:
 
-Fork this repo to your personal github account to get started.
+1. Fork this repo to your personal github account to get started.
 
 ### backend:
  
-1. Extend the existing Node backend to store (and update every 2 seconds) the location of the ISS (from [this api](http://api.open-notify.org/iss-now.json)) in the Mongo database.
+1. Extend the existing Node backend to store (and update every 2 seconds) the location of the ISS (from [this api](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)) in the Mongo database.
 2. Create a route for retrieving the location of the ISS to be used by the frontend
 
 ### frontend:
@@ -24,5 +24,6 @@ Fork this repo to your personal github account to get started.
 ### bonus:
 
 1. Tests
-2. Authentication (JWT or session based, signup/login modal with a link in the header)
-3. Lint ([api](/api) and [web](/web) each have a local eslint config)
+2. Lint ([api](/api) and [web](/web) each have a local eslint config)
+3. Authentication (JWT or session based, signup/login modal with a link in the header)
+4. Click a spot on the map and display the next pass time for that location using [this endpoint](http://open-notify.org/Open-Notify-API/ISS-Pass-Times/)
