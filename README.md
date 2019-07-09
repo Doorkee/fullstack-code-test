@@ -3,6 +3,8 @@ Doorkee React/Redux Node/Express full stack code test
 
 ## Instructions:
 
+Fork this repo to your personal github account to get started.
+
 ### backend:
  
 1. Extend the existing Node backend to store (and update every 2 seconds) the location of the ISS (from [this api](http://api.open-notify.org/iss-now.json)) in the Mongo database.
@@ -23,3 +25,4 @@ Doorkee React/Redux Node/Express full stack code test
 
 1. Tests
 2. Authentication (JWT or session based, signup/login modal with a link in the header)
+3. Lint ([api](/api) and [web](/web) each have a local eslint config)
