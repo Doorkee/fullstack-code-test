@@ -24,6 +24,6 @@ Doorkee React/Redux Node/Express full stack code test. The goal of this test is 
 ### bonus:
 
 1. Tests
-2. Lint ([api](/api) and [web](/web) each have a local eslint config)
+2. Lint ([api](/api) and [client](/client) each have a local eslint config)
 3. Authentication (JWT or session based, signup/login modal with a link in the header)
 4. Click a spot on the map and display the next pass time for that location using [this endpoint](http://open-notify.org/Open-Notify-API/ISS-Pass-Times/)
